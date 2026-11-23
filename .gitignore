@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/*.parquet
+!data/random.parquet
+!data/date_sorted.parquet
+!data/city_sorted.parquet
